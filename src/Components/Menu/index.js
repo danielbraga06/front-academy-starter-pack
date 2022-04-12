@@ -8,7 +8,6 @@ function Menu() {
       <div className="menu">
         <div>
           <Logo />
-          Hello World!
         </div>
 
         <div className="links-container">

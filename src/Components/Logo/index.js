@@ -5,6 +5,7 @@ function Logo() {
   return (
     <div>
       <img alt="Logo Front Academy" class="logo" src={LogoImagem} />
+      Oi
     </div>
   );
 }
