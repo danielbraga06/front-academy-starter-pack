@@ -1,10 +1,9 @@
-import Menu from "./Components/Menu";
+import Home from './Pages/Home';
 
 function App() {
   return (
     <div>
-       <Menu />
-      
+      <Home />
     </div>
   );
 }

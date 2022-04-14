@@ -1,3 +1,5 @@
+import './styles.css';
+
 function ComponentBase() {
     return (
         <div>

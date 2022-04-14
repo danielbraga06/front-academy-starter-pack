@@ -1,0 +1,14 @@
+.technologies-container .technologies__header {
+    border-bottom: 1px solid #4b4b4b;
+    padding-bottom: 12px;
+}
+
+.technologies-container .technologies__content {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.technologies-container .technologies__content > *:not(:first-child) {
+    margin-left: 25px;
+}
