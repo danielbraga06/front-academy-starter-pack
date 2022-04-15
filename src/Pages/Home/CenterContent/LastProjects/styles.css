@@ -6,12 +6,18 @@
     padding-bottom: 12px;
 }
 
+.last-projects-container .last-projects__wrapper {
+    max-height: 153px;
+    overflow: auto;
+}
+
 .last-projects-container .last-projects__content {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 12px;
     padding-right: 80px;
+    max-height: 250px;
 }
 
 .last-projects-container .last-projects__content > *:not(:first-child) {

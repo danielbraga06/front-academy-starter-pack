@@ -16,6 +16,7 @@ function LastProjects() {
             VER TODOS
           </Heading>
         </div>
+        <div className="last-projects__wrapper">
         <div className="last-projects__content">
           <Project
             imageUrl={FrontAcademy}
@@ -37,6 +38,7 @@ function LastProjects() {
             link="https://www.frontacademy.com.br/"
             title="Exemplo de projeto feito com React"
           />
+          </div>
         </div>
       </div>
     </Card>
