@@ -1,9 +1,10 @@
 import Card from "../../../Components/Card";
-import UserProfile from '../UserProfile';
+import UserProfile from "./UserProfile";
 import LastProjects from "./LastProjects";
 
 import "./styles.css";
 import Technologies from "./Technologies";
+import Certificates from "./Certificates";
 
 function CenterContent() {
   return (
@@ -17,7 +18,7 @@ function CenterContent() {
 
         <LastProjects />
 
-        <Card>Card 3</Card>
+        <Certificates />
       </div>
     </div>
   );

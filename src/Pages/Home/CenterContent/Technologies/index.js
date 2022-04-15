@@ -19,11 +19,11 @@ function Technologies() {
                     </Heading>
                 </div>
                 <div className='technologies__content'>
-                    <img alt='HTML5' src={Html} width={55} />
-                    <img alt='CSS3' src={Css} width={55} />
-                    <img alt='JAVASRIPT' src={JavaScript} width={48} />
-                    <img alt='REACT' src={ReactImage} width={120} />
-                    <img alt='GIT' src={Git} width={50} />
+                    <img alt='HTML5' src={Html} width={53} />
+                    <img alt='CSS3' src={Css} width={53} />
+                    <img alt='JAVASRIPT' src={JavaScript} width={45} />
+                    <img alt='REACT' src={ReactImage} width={115} />
+                    <img alt='GIT' src={Git} width={48} />
                 </div>
             </div>
         </Card>

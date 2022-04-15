@@ -4,6 +4,7 @@ a.project-container {
     border-radius: 10px;
     background: #1D1D1D;
     overflow: hidden;
+    text-decoration: none;
 }
 
 a.project-container img {
@@ -14,6 +15,6 @@ a.project-container .project__text {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 15px;
+    padding: 0px 14px;
     width: 100%;
 }

@@ -4,7 +4,7 @@
 }
 
 .home-container .home-container__content {
-    max-width: 1200px;
+    max-width: 950px;
     margin: 0 auto;
     min-height: 100vh;
     display: flex;
@@ -16,6 +16,7 @@
     display: flex;
     align-items: center;
     margin: 20px auto;
+    padding: 25px 0px;
 }
 
 .home-container .home-container__content .home-container__content__bottom .logo-container {

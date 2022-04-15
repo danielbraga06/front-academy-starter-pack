@@ -13,9 +13,9 @@ function Project({ imageUrl, title, link }) {
       <img alt={title} src={imageUrl} />
 
       <div className="project__text">
-        <Text fontSize={18}>{title}</Text>
+        <Text fontSize={15}>{title}</Text>
 
-        <Text color="#6A6A6A" fontSize={25}>
+        <Text color="#6A6A6A" fontSize={22}>
           {">"}
         </Text>
       </div>

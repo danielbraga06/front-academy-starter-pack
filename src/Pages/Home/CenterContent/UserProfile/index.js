@@ -1,13 +1,13 @@
-import Card from "../../../Components/Card";
-import UserImage from "../../../Components/UserImage";
-import Heading from "../../../Components/Heading";
-import Text from "../../../Components/Text";
-import SocialMedia from "../../../Components/SocialMedia";
-import Pin from "../../../Components/Icons/Pin";
+import Card from "../../../../Components/Card";
+import UserImage from "../../../../Components/UserImage";
+import Heading from "../../../../Components/Heading";
+import Text from "../../../../Components/Text";
+import SocialMedia from "../../../../Components/SocialMedia";
+import Pin from "../../../../Components/Icons/Pin";
 
 import "./styles.css";
-import Email from "../../../Components/Icons/Email";
-import Phone from "../../../Components/Icons/Phone";
+import Email from "../../../../Components/Icons/Email";
+import Phone from "../../../../Components/Icons/Phone";
 
 function UserProfile() {
   return (
@@ -18,9 +18,9 @@ function UserProfile() {
           </div>
 
           <div className="user-profile-container__left__content">
-            <Heading fontSize={35}>Daniel Braga</Heading>
+            <Heading fontSize={30}>Daniel Braga</Heading>
 
-            <Heading color="#5DB9FA" fontSize={21} fontWeight={400}>
+            <Heading color="#5DB9FA" fontSize={20} fontWeight={400}>
               Junior, 6 meses de experiência
             </Heading>
 

@@ -12,7 +12,7 @@ function LastProjects() {
       <div className="last-projects-container">
         <div className="last-projects__header">
           <Heading fontSize={24}>Últimos projetos</Heading>
-          <Heading color="#6A6A6A" fontSize={19}>
+          <Heading color="#6A6A6A" fontSize={15}>
             VER TODOS
           </Heading>
         </div>
