@@ -15,7 +15,7 @@ function SocialMedia() {
         rel="noreferrer"
         className="social-media-item"
       >
-        <img alt="GitHub" src={GitHub} width={27} />
+        <img alt="GitHub" src={GitHub} />
       </a>
 
       <a
@@ -24,7 +24,7 @@ function SocialMedia() {
         rel="noreferrer"
         className="social-media-item"
       >
-        <img alt="Linkedin" src={Linkedin} width={27} />
+        <img alt="Linkedin" src={Linkedin} />
       </a>
 
       <a
@@ -33,7 +33,7 @@ function SocialMedia() {
         rel="noreferrer"
         className="social-media-item"
       >
-        <img alt="Gmail" src={Gmail} width={27} />
+        <img alt="Gmail" src={Gmail} />
       </a>
 
       <a
@@ -42,7 +42,7 @@ function SocialMedia() {
         rel="noreferrer"
         className="social-media-item"
       >
-        <img alt="CV" src={CV} width={25} />
+        <img alt="CV" src={CV} />
       </a>
     </div>
   );
