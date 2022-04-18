@@ -5,13 +5,14 @@
 }
 
 .home-container .home-container__content {
-    max-width: 950px;
-    margin: 0 auto;
-    padding: 100px 0px;
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    max-width: 1130px;
+    margin: 0 auto;
+    padding-top: 62px;
+    min-height: 100vh;
+
 }
 
 .home-container .home-container__content .home-container__content__bottom {

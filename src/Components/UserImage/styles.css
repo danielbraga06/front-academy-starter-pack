@@ -10,4 +10,5 @@
 }
 
 .user-image-container img {
+    max-width: 150%;
 }
