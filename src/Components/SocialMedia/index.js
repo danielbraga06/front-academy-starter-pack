@@ -1,6 +1,6 @@
 import "./styles.css";
 
-import MyCV from './assets/Curriculo Carlos Daniel 2022.pdf';
+import MyCV from "./assets/Curriculo Carlos Daniel 2022.pdf";
 import GitHub from "./assets/github.png";
 import Linkedin from "./assets/linkedin.png";
 import Gmail from "./assets/gmail.png";

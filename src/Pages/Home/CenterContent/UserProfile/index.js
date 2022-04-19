@@ -12,7 +12,7 @@ import Phone from "../../../../Components/Icons/Phone";
 function UserProfile() {
   return (
     <Card height="100%">
-      <div className="user-profile-container" >
+      <div className="user-profile-container">
         <div className="user-profile-container__left__user-image">
           <UserImage />
         </div>

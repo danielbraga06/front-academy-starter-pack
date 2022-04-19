@@ -4,8 +4,7 @@ import Card from "../../../../Components/Card";
 import Heading from "../../../../Components/Heading";
 import Certificate from "../../../../Components/Certificate";
 
-import StarterPack from './assets/starter-pack.png';
-
+import StarterPack from "./assets/starter-pack.png";
 
 function Certificates() {
   return (

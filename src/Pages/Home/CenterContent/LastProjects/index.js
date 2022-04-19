@@ -17,27 +17,27 @@ function LastProjects() {
           </Heading>
         </div>
         <div className="last-projects__wrapper">
-        <div className="last-projects__content">
-          <Project
-            imageUrl={FrontAcademy}
-            link="https://www.frontacademy.com.br/"
-            title="Exemplo de projeto feito com React"
-          />
-          <Project
-            imageUrl={FrontAcademy}
-            link="https://www.frontacademy.com.br/"
-            title="Exemplo de projeto feito com React"
-          />
-          <Project
-            imageUrl={FrontAcademy}
-            link="https://www.frontacademy.com.br/"
-            title="Exemplo de projeto feito com React"
-          />
-          <Project
-            imageUrl={FrontAcademy}
-            link="https://www.frontacademy.com.br/"
-            title="Exemplo de projeto feito com React"
-          />
+          <div className="last-projects__content">
+            <Project
+              imageUrl={FrontAcademy}
+              link="https://www.frontacademy.com.br/"
+              title="Exemplo de projeto feito com React"
+            />
+            <Project
+              imageUrl={FrontAcademy}
+              link="https://www.frontacademy.com.br/"
+              title="Exemplo de projeto feito com React"
+            />
+            <Project
+              imageUrl={FrontAcademy}
+              link="https://www.frontacademy.com.br/"
+              title="Exemplo de projeto feito com React"
+            />
+            <Project
+              imageUrl={FrontAcademy}
+              link="https://www.frontacademy.com.br/"
+              title="Exemplo de projeto feito com React"
+            />
           </div>
         </div>
       </div>
