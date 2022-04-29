@@ -1,4 +1,3 @@
-import Card from "../../../Components/Card";
 import UserProfile from "./UserProfile";
 import LastProjects from "./LastProjects";
 
