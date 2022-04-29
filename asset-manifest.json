@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4308d904.css",
+    "main.js": "/static/js/main.e2c0c37d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/frontacademy.PNG": "/static/media/frontacademy.270b5176c53fb9b2e9c7.PNG",
+    "static/media/Curriculo Carlos Daniel 2022.pdf": "/static/media/Curriculo Carlos Daniel 2022.c280c307b3227217032c.pdf",
+    "static/media/daniel-braga-foto.png": "/static/media/daniel-braga-foto.0dcb3b1470139ccf2bcd.png",
+    "static/media/front-academy-logo.png": "/static/media/front-academy-logo.a6c10571856202b90c5f.png",
+    "static/media/Azonix.woff": "/static/media/Azonix.18058c96d53ad2f9f2a3.woff",
+    "index.html": "/index.html",
+    "main.4308d904.css.map": "/static/css/main.4308d904.css.map",
+    "main.e2c0c37d.js.map": "/static/js/main.e2c0c37d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4308d904.css",
+    "static/js/main.e2c0c37d.js"
+  ]
+}
