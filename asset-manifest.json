@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio-digital/static/css/main.a93b0e88.css",
-    "main.js": "/portfolio-digital/static/js/main.5f01597f.js",
+    "main.css": "/portfolio-digital/static/css/main.4de7c6fa.css",
+    "main.js": "/portfolio-digital/static/js/main.f41df8df.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolio-digital/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Certificado Starter Pack.pdf": "/portfolio-digital/static/media/Certificado Starter Pack.3014de361f2a0443df41.pdf",
     "static/media/frontacademy.PNG": "/portfolio-digital/static/media/frontacademy.270b5176c53fb9b2e9c7.PNG",
     "static/media/Curriculo Carlos Daniel 2022.pdf": "/portfolio-digital/static/media/Curriculo Carlos Daniel 2022.c280c307b3227217032c.pdf",
+    "static/media/portfolio.PNG": "/portfolio-digital/static/media/portfolio.6c8acefaad8b8cb3094d.PNG",
     "static/media/daniel-braga-foto.png": "/portfolio-digital/static/media/daniel-braga-foto.0dcb3b1470139ccf2bcd.png",
-    "static/media/front-academy-logo.png": "/portfolio-digital/static/media/front-academy-logo.a6c10571856202b90c5f.png",
+    "static/media/logo-eu.png": "/portfolio-digital/static/media/logo-eu.4f898478c77653d2a6b2.png",
     "static/media/Azonix.woff": "/portfolio-digital/static/media/Azonix.18058c96d53ad2f9f2a3.woff",
     "index.html": "/portfolio-digital/index.html",
-    "main.a93b0e88.css.map": "/portfolio-digital/static/css/main.a93b0e88.css.map",
-    "main.5f01597f.js.map": "/portfolio-digital/static/js/main.5f01597f.js.map",
+    "main.4de7c6fa.css.map": "/portfolio-digital/static/css/main.4de7c6fa.css.map",
+    "main.f41df8df.js.map": "/portfolio-digital/static/js/main.f41df8df.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolio-digital/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a93b0e88.css",
-    "static/js/main.5f01597f.js"
+    "static/css/main.4de7c6fa.css",
+    "static/js/main.f41df8df.js"
   ]
 }
