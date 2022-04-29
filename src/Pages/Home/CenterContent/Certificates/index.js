@@ -1,5 +1,6 @@
 import "./styles.css";
 
+import MyCertificate from "./assets/Certificado Starter Pack.pdf";
 import Card from "../../../../Components/Card";
 import Heading from "../../../../Components/Heading";
 import Certificate from "../../../../Components/Certificate";
@@ -19,7 +20,7 @@ function Certificates() {
         <div className="certificates__content">
           <Certificate
             imageUrl={StarterPack}
-            link="https://www.frontacademy.com.br/"
+            link={MyCertificate}
             title="STARTER PACK"
             subTitle="Front Academy, 2022"
             authenticationCode="Autenticação #1929292a1ka191922k1921929aaj"

@@ -1,4 +1,4 @@
-import LogoImagem from "./Imagens/front-academy-logo.png";
+import LogoImagem from "./Imagens/logo-eu.png";
 import "./styles.css";
 
 function Logo() {

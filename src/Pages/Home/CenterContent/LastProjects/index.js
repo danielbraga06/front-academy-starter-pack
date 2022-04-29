@@ -4,6 +4,7 @@ import Card from "../../../../Components/Card";
 import Heading from "../../../../Components/Heading";
 import Project from "../../../../Components/Project";
 
+import MeuPortfolio from "./assets/portfolio.PNG";
 import FrontAcademy from "./assets/frontacademy.PNG";
 
 function LastProjects() {
@@ -19,9 +20,9 @@ function LastProjects() {
         <div className="last-projects__wrapper">
           <div className="last-projects__content">
             <Project
-              imageUrl={FrontAcademy}
-              link="https://www.frontacademy.com.br/"
-              title="Exemplo de projeto feito com React"
+              imageUrl={MeuPortfolio}
+              link="https://danielbraga06.github.io/portfolio-digital/"
+              title="Projeto: Meu primeiro portfólio"
             />
             <Project
               imageUrl={FrontAcademy}
